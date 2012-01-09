@@ -1,0 +1,44 @@
+I am so grateful for the many people who helped make this thesis possible. My M.Eng. project has been the greatest academic challenge I faced up to this point in my life, and as such, it proved to be an extremely educational and growing experience.  I really appreciate everybody who has touched my life up to this point and has enabled me achieve what I have, but there are a few people whose contributions deserve .
+
+There are a lot of people who helped me during my time at Google. John Wilkes, my Google intern host on the Omega team, was incredibly giving in both his time and in creative ideas. I was very fortunate to have a thesis supervisor who was so nurturing and patient in helping me with so many aspects of this project. The other person whose assistance with this project has been invaluable was Malte Schwarzkopf, who was my go-to grad student for technical guidance. He has done everything from helping me understand the particular simulator used in my project to debugging arcane source control issues. I am very grateful to Evan Adams, another engineer at Google, who taught me a lot about software engineering and helped prepare me for a career in software engineering by emphasising software skills. Others who made a significant impact during my time at Google include Surabhi Gupta, Gloria Guo, and Dimitris Nakos. I was privileged to work with the Roma team, where I gained valuable skills in data visualization and learned a lot about the infrastructure that manages Google's compute clusters. There have been many more amazing, brilliant people at Google who have helped me out tremendously over the past three years than I can list here, but I appreciate their time and am looking to working with them again in the future.
+
+Thanks go out to my MIT thesis advisor, Professor Asu Ozdaglar, for providing guidance and helping me on the MIT-end of the thesis process. Professor Paul Gray was and continues to be an outstanding Course 6 advisor, and I feel so lucky to have been able to benefit from his advice and tutelage over the past four years. Thank you to those involved with the 6A program, including Professor John Guttag and Anne Hunter.
+
+Thank you to my friends, whose encouragement and advice kept me going throughout the process. Special thanks go out to Jenny Liu, who helped me get acquainted with the MIT thesis process and helped me fine-tune my final project presentation, and to Jesse Dunietz, who helped me in the initial phases of designing and executing my project.
+
+A very special thank you goes out to my parents and grandparents for always being supportive and believing in me. Without my family, I'd hardly be where I am today. They always know just what I need and make sure I'm headed on the right track.
+
+
+
+
+This thesis was made possible through the help and support of many people. I
+would rst like to thank my supervisor, Prof. Eric Klopfer, who provided me with
+the opportunity to be a part of this amazing project, and who has been incredibly
+supportive throughout my entire M.Eng. process. I learned a lot from him both in
+lab and in his class on using games in education, and it was truly an honor to work
+with him.
+I would next like to thank Daniel Wendel, without whom this thesis truly could
+not exist. As the leader of the StarLogo TNG team, Daniel taught me everything I
+know about StarLogo TNG, and it was through his patient teaching and guidance
+that nearly every aspect of this project took form. Over the course of the past year,
+Daniel has proved himself to be both an excellent mentor and friend, and he, along
+with the rest of the StarLogo TNG team (namely, Wendy Huang, Eli Kosminsky,
+Hailey Kopp, Chris Cheng, Angel Irizarry, and David Lam) has made the StarLogo
+o ce an incredibly fun place to work. I would also like to thank the rest of the
+members of the Scheller Teacher Education Program; I greatly enjoyed seeing all of
+the awesome projects they were working on and playing board games with everyone
+on \Fun Fridays." Special thanks are also in order for Eli Kosminsky, who worked
+with me on debugging StarLogo TNG's 3D Model Importer this summer.
+My time at MIT would not have been the same without my friends, who kept me
+sane (but not too sane) throughout both my M.Eng. and undergraduate years; to
+the C-Entry and \Summerfun" folks, my roommate Priya, as well as my friends from
+home, thank you for always being there for me. Special thanks to Ra  Rush, who
+helped me to brainstorm potential applications of StarLogo TNG to medical educa-
+tion, and to Katie Ray and Ankit Gordhandas for their invaluable help in proofread-
+ing.
+Last but certainly not least, I would like to thank my family for all of their innite
+love and support. Thank you Mom and Dad for always encouraging and helping me to
+achieve my dreams, to David (the world's best little brother ever, in my humble and
+5only slightly biased opinion) for constantly motivating me to be a better programmer,
+and to Joel, my incredible anc e who was by my side through every step of my MIT
+journey, even when he was two hundred miles away
