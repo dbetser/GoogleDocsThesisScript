@@ -9,18 +9,17 @@ NAME=main
 
 
 # List of Google doc URLs for the mutable portions of the thesis.
-main_tex_URL='https://docs.google.com/document/d/1f9MP1-QRqvtgmwjJI9YiFRqxtIO78TxBGMwo_md0OYE/export?format=txt'
-contents_tex_URL='https://docs.google.com/document/d/1W5h0_7AG2WgIm_hz2mfUdj3wFwOtoC36BBFjZVLGrNM/export?format=txt'
-cover_tex_URL='https://docs.google.com/document/d/1xEzeDf1A5ZFPW6SGzY-8ycw1KrqHlYbX2iUPhTNhAQs/export?format=txt'
-appa_tex_URL='https://docs.google.com/document/d/1btiRrhL2A2pH4gU5F-MPn1VnXSU9gLVb_o5_1ByTHRQ/export?format=txt'
-appb_tex_URL='https://docs.google.com/document/d/19bKvo8_URV9Y4vlOY2TpxMnW1M86l8bgwSNNlN7n1wk/export?format=txt'
-abstract_tex_URL='https://docs.google.com/document/d/1wqQZGtJawjbNFQ8KMQcVYfZETg5eA2DX8x8yOZ4HYc4/export?format=txt'
-chap1_tex_URL='https://docs.google.com/document/d/149LK_3pKsU4Ug5tMDKWK29IspuhR3Ig7qxhab4d_n80/export?format=txt'
-# For additional chapters
-
+main_tex_URL='https://docs.google.com/document/d/##YOUR_HASH_HERE##/export?format=txt'
+contents_tex_URL='https://docs.google.com/document/d/##YOUR_HASH_HERE##/export?format=txt'
+cover_tex_URL='https://docs.google.com/document/d/##YOUR_HASH_HERE##/export?format=txt'
+appa_tex_URL='https://docs.google.com/document/d/##YOUR_HASH_HERE##/export?format=txt'
+appb_tex_URL='https://docs.google.com/document/d/##YOUR_HASH_HERE##/export?format=txt'
+abstract_tex_URL='https://docs.google.com/document/d/##YOUR_HASH_HERE##/export?format=txt'
+chap1_tex_URL='https://docs.google.com/document/d/##YOUR_HASH_HERE##/export?format=txt'
+# For additional chapters, add the URL for the document here, and add the dependency upon it for the target $(NAME).tex.
 
 BIB_NAME=main
-BIB_URL='https://docs.google.com/document/d/1S4Lyfu02aOl_HDYgQnSWSzJOaHJksUW-eGtmDx6EytM/export?format=txt'
+BIB_URL='https://docs.google.com/document/d/##YOUR_HASH_HERE##/export?format=txt'
 
 
 TARGET=$(NAME).pdf
