@@ -1,11 +1,16 @@
 This project is used to compile an MIT thesis where the mutable portions of the thesis are stored in Google docs.
 
-To set up a local environment to build the thesis in OS X, use the
-following commands:
+To set up a local environment to build the thesis in OS X, use the following commands:
   NOTE: requires wget (to install on OS X see
   http://code.google.com/p/rudix/downloads/detail?name=wget-1.12-0.dmg)
   1) mkdir meng-thesis && cd meng-thesis
   2) wget http://web.mit.edu/dbetser/Public/1122/build_thesis.sh
   3) chmod u+x ./build_thesis.sh
-  4) ./build_thesis.sh  # This will download the Makefile, build the pdf,
-                        # and open it.
+  4) ./build_thesis.sh  # This will download the Makefile, build the pdf, and open it.
+
+When adding a new chapter:
+  1) Create a new Google doc for the chapter, and set its visibility settings to either “Anyone with the link” or “Public on the web”.
+  2) Add the line \include{chapX} for the new chapter to main.tex, where X is the chapter index.
+  3) Add and define the variable chapX_tex_URL to the makefile.
+  4) Add the dependency for the new chapter in the main.pdf target of the makefile.
+
